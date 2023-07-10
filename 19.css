@@ -104,9 +104,11 @@ padding-right:30px;
 	  padding-left: 50px;
 	font-size:20px;}
 	
+	.content{
+     position: relative;
+	}
 	.content img{padding-top: 10px;
 		padding-right: 13px;
-		position: relative;
 		}
 	
 .on{width: 420px;
